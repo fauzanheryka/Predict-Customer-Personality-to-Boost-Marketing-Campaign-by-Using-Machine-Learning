@@ -22,7 +22,7 @@
 - [STAGE 5: Business Recomendation](#stage-5-business-recommendation)
 
 
-## Stage 0 Problem Statement
+## STAGE 0 Problem Statement
 
 ## Background
 A company can develop rapidly when it knows its customers' personality behavior, so that it can provide better services and benefits to customers who have the potential to become loyal customers. By processing historical marketing campaign data to improve performance and target the right customers so they can make transactions on the company's platform, from this
