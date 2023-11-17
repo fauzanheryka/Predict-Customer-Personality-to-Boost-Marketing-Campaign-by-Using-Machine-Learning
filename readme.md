@@ -176,7 +176,7 @@ Analysis of the distribution of several features of each cluster was also carrie
 
 <p align="center">
     <kbd> <img width="700" alt="percentage" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/0c7633e4-252c-42b2-ba2e-e7f4f207399d"></kbd> <br>
-    Figure 7 — Distribution plot by cluster
+    Figure 8 — Distribution plot by cluster
 </p>
 
 ### Interesting thing : 
@@ -188,7 +188,7 @@ In order to maximize the business metric `GMV`, we will perform a multivariate a
 
 <p align="center">
     <kbd> <img width="800" alt="percentage" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/5bcff300-51bf-4502-bfbf-406f04694dca"></kbd> <br>
-    Figure 7 — Regplot by cluster
+    Figure 9 — Regplot by cluster
 </p>
 
 ### Result : 
